@@ -1,0 +1,58 @@
+h1{
+    color: whitesmoke;
+}
+a{
+    color:whitesmoke
+}
+p{
+    color: black;
+    font-size: 20px;
+}
+table ,tr,td,caption,th{
+    border: 5px solid rgb(28, 22, 22);
+    font-family: Arial, Helvetica, sans-serif;
+     border-collapse:collapse ;
+     padding: 1px;
+}
+
+aside{
+    font-size: 20px;
+}
+ul{
+    color: rgb(92, 52, 86);
+}
+.moni{
+    color: whitesmoke;
+    font-size:23px;
+    
+}
+.anu{
+    color: rgb(19, 9, 78);
+}
+.cafe{
+    color:rgb(208, 158, 31) ;
+    font-size: 25px;
+}
+.day{
+    font-size:23px ;
+    color: white;
+}
+.bai{
+    color: white;
+    font-size: 23px;
+}
+.menu{
+    color: whitesmoke;
+}
+.icon{
+    color: whitesmoke;
+}
+.bhai{
+    color: orangered;
+}
+.mooni,.booni,.suvi{
+    color: whitesmoke;
+}
+.ul{
+    color: whitesmoke;
+}
